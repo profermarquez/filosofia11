@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+
+
     <footer>
         <a href="/filosofia11/ejercicios.html">Volver</a>.
     </footer>
